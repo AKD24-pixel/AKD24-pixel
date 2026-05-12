@@ -1,41 +1,111 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is D Aryan Kaushik
-=======================================================================================================================================
+# Hi there, I'm Aryan Kaushik 👋
 
-Python Developer
-----------------
+**Embedded Software Engineer | IoT Enthusiast | Final Year ECE Student**
 
-I've been learning Python for quite a few years
+Welcome to my GitHub! I'm a passionate embedded systems engineer with expertise in IoT projects, hardware-software integration, and embedded design. I love building innovative solutions that bridge the gap between hardware and software.
 
-* 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [MyPortfolio](http://aryan7477.pythonanywhere.com/)
-* ✉️  You can contact me at [aryan04.kaushik@gmail.com](mailto:aryan04.kaushik@gmail.com)
-* 🧠  I'm learning Data Structures and Algorithms
-* 🤝  I'm open to collaborating on interesting projects
+---
 
-### Skills
+## 🚀 About Me
 
+- 🎓 **Final Year ECE Student** at Vellore Institute of Technology (VITI) | GPA: 7.9/10
+- 💡 Specialized in **Embedded Systems Design** and **IoT Applications**
+- 🔧 Currently working as **RF Design and Test Engineer** at Big Bang Boom Solutions (Jan 2026 - May 2026)
+- 📍 Chennai, India | 📧 [aryan04.kaushik@gmail.com](mailto:aryan04.kaushik@gmail.com)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-</p>
+---
 
+## 💻 Technical Skills
 
-### Socials
+**Languages:** Python · Java · C · C++ · Embedded C
 
-<p align="left"> <a href="https://www.github.com/AKD24-pixel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+**Platforms & Tools:** ESP32 · Arduino Uno/Mega · Arduino IDE · PlatformIO · Tinkercad
 
-### Badges
+**Hardware Skills:** Digital Electronics · RF Design & Testing · 3D Printing · Bluetooth Modules (HM10)
 
-<b>My GitHub Stats</b>
+**Software Tools:** LVGL · MIT App Inventor · BambuLab · Git
 
-<a href="http://www.github.com/AKD24-pixel"><img src="https://github-readme-stats.vercel.app/api?username=AKD24-pixel&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AKD24-pixel's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/AKD24-pixel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AKD24-pixel&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🎯 Featured Projects
 
-<a href="http://www.github.com/AKD24-pixel"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AKD24-pixel&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 🅿️ **Smart Car Parking System** *(IoT)*
+IoT-based parking detection system using sensors to identify available spaces with real-time mobile app integration.
+- **Tech Stack:** ESP32, Arduino, Python, Mobile App
+- **Key Achievement:** End-to-end IoT solution from sensor integration to UI
 
-<a href="https://github.com/AKD24-pixel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKD24-pixel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### 🤖 **Face Tracking Robot** *(Robotics)*
+3D-printed autonomous robot with computer vision-based face tracking capabilities.
+- **Tech Stack:** Arduino Uno, Tinkercad, Custom Mobile App
+- **Key Achievement:** Real-time face detection and servo control
 
-<b>Top Repositories</b>
+### 🦾 **Robotic Arm with Bluetooth Control** *(Embedded Systems)*
+IoT-enabled robotic arm with wireless control via custom Android app.
+- **Tech Stack:** Arduino Mega, HM10 Bluetooth Module, MIT App Inventor
+- **Key Achievement:** Seamless wireless communication & precision control
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+### 🎨 **Anti-Drone Gun HMI Interface** *(Embedded UI Design)*
+Touch-based embedded interface for tactical anti-drone systems using LVGL.
+- **Tech Stack:** LVGL, Embedded C, Touch Sensors
+- **Key Achievement:** Professional-grade HMI for defense systems
+
+---
+
+## 🏆 Professional Experience
+
+**RF Design and Test Engineer** @ Big Bang Boom Solutions  
+*Jan 2026 - May 2026 | Chennai*
+- Designed RF front-end architecture and conducted comprehensive testing for anti-drone systems
+- Involved in embedded interface design for tactical applications
+
+**Embedded Systems Intern** @ Finstein  
+*May 2025 - Jun 2025 | Chennai*
+- Developed and tested Arduino-based IoT prototypes
+- Applied theoretical knowledge to solve real-world engineering challenges
+- Designed and fabricated functional prototypes (robotic arm, face-tracking robot)
+
+---
+
+## 📜 Certifications
+
+✅ **Maven Silicon** - Embedded Systems Design Internship (Jun 2025)
+
+---
+
+## 📊 My GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKD24-pixel&layout=compact&theme=dark)](https://github.com/AKD24-pixel)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKD24-pixel&show_icons=true&theme=dark)](https://github.com/AKD24-pixel)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKD24-pixel&theme=dark)](https://github.com/AKD24-pixel)
+
+---
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kaushik-141a17274)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan04.kaushik@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917358358931)
+
+---
+
+## 🌱 Always Learning
+
+I'm constantly exploring new technologies in:
+- Advanced IoT architectures
+- Real-time embedded systems
+- RF/Wireless communication protocols
+- Edge computing applications
+
+---
+
+## 📌 Current Focus
+
+Working on embedded control interfaces and IoT solutions. Check out my repositories for my latest projects!
+
+---
+
+**⭐ If you find my projects interesting, feel free to star them and connect with me!**
+
+*Let's build something amazing together!* 🚀
