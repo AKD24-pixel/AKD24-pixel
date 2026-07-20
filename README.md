@@ -1,78 +1,96 @@
 # Hi there, I'm Aryan Kaushik 👋
 
-**Embedded Software Engineer | IoT Enthusiast | Final Year ECE Student**
+**Embedded Systems Engineer | Firmware Developer | RF & Embedded Systems**
 
-Welcome to my GitHub! I'm a passionate embedded systems engineer with expertise in IoT projects, hardware-software integration, and embedded design. I love building innovative solutions that bridge the gap between hardware and software.
+Welcome to my GitHub! I'm an Electronics and Communication Engineering graduate with a strong interest in embedded systems, firmware development, and low-level software. I enjoy building embedded applications from the ground up, integrating hardware and software, and developing reusable firmware for microcontroller-based systems.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 **Final Year ECE Student** at Vellore Institute of Technology (VITI) | GPA: 7.9/10
-- 💡 Specialized in **Embedded Systems Design** and **IoT Applications**
-- 🔧 Currently working as **RF Design and Test Engineer** at Big Bang Boom Solutions (Jan 2026 - May 2026)
-- 📍 Chennai, India | 📧 [aryan04.kaushik@gmail.com](mailto:aryan04.kaushik@gmail.com)
+- 🎓 B.Tech in Electronics and Communication Engineering from Vellore Institute of Technology (VIT) | GPA: 7.92/10
+- 💡 Interested in Embedded Systems, Firmware Development, Microcontroller Architecture, and Embedded HMI Design
+- 🔧 Completed a six-month internship as an **RF & Embedded Systems Intern** at Big Bang Boom Solutions, contributing to Electronic Warfare and Anti-Drone System development
+- 📍 Chennai, India
+- 📧 aryan04.kaushik@gmail.com
 
 ---
 
 ## 💻 Technical Skills
 
-**Languages:** Python · Java · C · C++ · Embedded C
+**Programming Languages**
+- C · Embedded C · C++ · Python
 
-**Platforms & Tools:** ESP32 · Arduino Uno/Mega · Arduino IDE · PlatformIO · Tinkercad
+**Embedded Platforms**
+- STM32 · ESP32 · Arduino · ARM Cortex-M
 
-**Hardware Skills:** Digital Electronics · RF Design & Testing · 3D Printing · Bluetooth Modules (HM10)
+**Technical Skills**
+- Embedded Systems · Peripheral Drivers · RF Testing · Embedded HMI
 
-**Software Tools:** LVGL · MIT App Inventor · BambuLab · Git
+**Tools & Frameworks**
+- PlatformIO · LVGL · EEZ Studio · Tinkercad · Git
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🅿️ **Smart Car Parking System** *(IoT)*
-IoT-based parking detection system using sensors to identify available spaces with real-time mobile app integration.
-- **Tech Stack:** ESP32, Arduino, Python, Mobile App
-- **Key Achievement:** End-to-end IoT solution from sensor integration to UI
+### STM32 Peripheral Driver Library
+Modular bare-metal peripheral driver library written in C for STM32 Cortex-M microcontrollers using direct register programming without relying on vendor HAL libraries.
 
-### 🤖 **Face Tracking Robot** *(Robotics)*
-3D-printed autonomous robot with computer vision-based face tracking capabilities.
-- **Tech Stack:** Arduino Uno, Tinkercad, Custom Mobile App
-- **Key Achievement:** Real-time face detection and servo control
+**Tech Stack:** STM32 · Embedded C · Bare-Metal Programming
 
-### 🦾 **Robotic Arm with Bluetooth Control** *(Embedded Systems)*
-IoT-enabled robotic arm with wireless control via custom Android app.
-- **Tech Stack:** Arduino Mega, HM10 Bluetooth Module, MIT App Inventor
-- **Key Achievement:** Seamless wireless communication & precision control
+---
 
-### 🎨 **Anti-Drone Gun HMI Interface** *(Embedded UI Design)*
-Touch-based embedded interface for tactical anti-drone systems using LVGL.
-- **Tech Stack:** LVGL, Embedded C, Touch Sensors
-- **Key Achievement:** Professional-grade HMI for defense systems
+### Anti-Drone System HMI Development
+Embedded Human–Machine Interface developed using LVGL and EEZ Studio while supporting RF testing, system validation, and hardware evaluation activities.
+
+**Tech Stack:** LVGL · EEZ Studio · Embedded C
+
+---
+
+### Smart Home Automation System
+ESP32-based IoT smart home automation system for environmental monitoring, automated device control, and real-time mobile application integration.
+
+**Tech Stack:** ESP32 · IoT · Embedded C
+
+---
+
+### ESP32-Based Face Tracking Robot
+3D-printed robot implementing real-time face tracking, Bluetooth communication, servo control, and custom mobile application integration.
+
+**Tech Stack:** ESP32 · Bluetooth · Embedded C
 
 ---
 
 ## 🏆 Professional Experience
 
-**RF Design and Test Engineer** @ Big Bang Boom Solutions  
-*Jan 2026 - May 2026 | Chennai*
-- Designed RF front-end architecture and conducted comprehensive testing for anti-drone systems
-- Involved in embedded interface design for tactical applications
+### RF & Embedded Systems Intern
+**Big Bang Boom Solutions**  
+*January 2026 – July 2026*
 
-**Embedded Systems Intern** @ Finstein  
-*May 2025 - Jun 2025 | Chennai*
-- Developed and tested Arduino-based IoT prototypes
-- Applied theoretical knowledge to solve real-world engineering challenges
-- Designed and fabricated functional prototypes (robotic arm, face-tracking robot)
+- Contributed to the development and validation of RF subsystems for an Electronic Warfare Anti-Drone System.
+- Supported embedded system integration and interface development.
+- Evaluated RF and embedded hardware components for product development.
+- Prepared technical documentation and validation reports supporting R&D activities.
+
+---
+
+### Embedded Systems Intern
+**Finstein**  
+*May 2025 – June 2025*
+
+- Developed ESP32-based embedded applications involving Bluetooth communication, sensor interfacing, and actuator control.
+- Designed and fabricated two functional prototypes—a robotic arm and a face-tracking robot—to demonstrate embedded control and mobile application integration.
 
 ---
 
 ## 📜 Certifications
 
-✅ **Maven Silicon** - Embedded Systems Design Internship (Jun 2025)
+- Maven Silicon – Embedded Systems Design Internship
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKD24-pixel&layout=compact&theme=dark)](https://github.com/AKD24-pixel)
 
@@ -84,28 +102,19 @@ Touch-based embedded interface for tactical anti-drone systems using LVGL.
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-kaushik-141a17274)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan04.kaushik@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917358358931)
+- 💼 LinkedIn: https://linkedin.com/in/aryan-kaushik-141a17274
+- 📧 Email: aryan04.kaushik@gmail.com
 
 ---
 
-## 🌱 Always Learning
+## 🌱 Currently Learning
 
-I'm constantly exploring new technologies in:
-- Advanced IoT architectures
-- Real-time embedded systems
-- RF/Wireless communication protocols
-- Edge computing applications
-
----
-
-## 📌 Current Focus
-
-Working on embedded control interfaces and IoT solutions. Check out my repositories for my latest projects!
+- STM32 Peripheral Driver Development
+- FreeRTOS
+- Embedded Linux
+- Device Driver Development
+- Embedded GUI Design using LVGL
 
 ---
 
-**⭐ If you find my projects interesting, feel free to star them and connect with me!**
-
-*Let's build something amazing together!* 🚀
+Thanks for stopping by! Feel free to explore my repositories or connect with me.
