@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm an Electronics and Communication Engineering graduate 
 
 ## 🚀 About Me
 
-- 🎓 B.Tech in Electronics and Communication Engineering from Vellore Institute of Technology (VIT) | GPA: 7.92/10
+- 🎓 B.Tech in Electronics and Communication Engineering from Vellore Institute of Technology (VIT)
 - 💡 Interested in Embedded Systems, Firmware Development, Microcontroller Architecture, and Embedded HMI Design
 - 🔧 Completed a six-month internship as an **RF & Embedded Systems Intern** at Big Bang Boom Solutions, contributing to Electronic Warfare and Anti-Drone System development
 - 📍 Chennai, India
