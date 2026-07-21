@@ -90,20 +90,10 @@ ESP32-based IoT smart home automation system for environmental monitoring, autom
 
 ---
 
-## 📊 GitHub Stats
+🚧 Currently Building
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKD24-pixel&layout=compact&theme=dark)](https://github.com/AKD24-pixel)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AKD24-pixel&show_icons=true&theme=dark)](https://github.com/AKD24-pixel)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AKD24-pixel&theme=dark)](https://github.com/AKD24-pixel)
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/aryan-kaushik-141a17274
-- 📧 Email: aryan04.kaushik@gmail.com
+• STM32 Peripheral Driver Library
+• RTC + LCD Demonstration
 
 ---
 
@@ -114,6 +104,15 @@ ESP32-based IoT smart home automation system for environmental monitoring, autom
 - Embedded Linux
 - Device Driver Development
 - Embedded GUI Design using LVGL
+
+---
+
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/aryan-kaushik-141a17274
+- 📧 Email: aryan04.kaushik@gmail.com
+- 
 
 ---
 
